@@ -1,8 +1,8 @@
 contact_links:
-  - name: UX report ✨
+  - name: UX report
     url: https://github.com/FiloSottile/age/discussions/new?category=UX-reports
     about: Was age hard to use? It's not you, it's us. We want to hear about it.
-  - name: Spec feedback 📃
+  - name: Spec feedback discussion
     url: https://github.com/FiloSottile/age/discussions/new?category=Spec-feedback
     about: Have a comment about the age spec as it's implemented by this and other tools?
   - name: Questions, feature requests, and more 💬
